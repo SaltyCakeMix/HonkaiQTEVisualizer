@@ -1,0 +1,467 @@
+Name: Arctic Kriegsmesser
+Type: PSY
+ConflictID: Battle Storm
+Effects: Freeze, Airborne, Shield Break
+Triggers: Ignite
+
+Name: Argent Knight: Artemis
+Type: BIO
+ConflictID: 
+Effects: Freeze
+Triggers: Paralyze, Freeze
+
+Name: Azure Empyrea
+Type: PSY
+ConflictID: Phoenix
+Effects: Ignite, Time Slow, Airborne
+Triggers: Time Slow
+
+Name: Battle Storm
+Type: BIO
+ConflictID: Battle Storm
+Effects: Stun, Ignite, Time Slow, Airborne, Shield Break, Weaken
+Triggers: Paralyze
+
+Name: Black Nucleus
+Type: BIO
+ConflictID: Snowy Sniper
+Effects: Ignite, Stun, Shield Break
+Triggers: Airborne, Time Slow
+
+Name: Blood Rose
+Type: PSY
+ConflictID: 
+Effects: Ignite, Shield Break, Airborne
+Triggers: Stun
+
+Name: Blueberry Blitz
+Type: MECH
+ConflictID: 
+Effects: Weaken, Airborne, Freeze, Time Slow, Shield Break
+Triggers: Airborne, Hit
+
+Name: Celestial Hymn
+Type: BIO
+ConflictID: 
+Effects: Impair
+Triggers: Time Slow
+
+Name: Crimson Impulse
+Type: BIO
+ConflictID: Crimson Impulse
+Effects: Airborne, Time Slow, Bleed
+Triggers: Airborne
+
+Name: Darkbolt Jonin
+Type: BIO
+ConflictID: 
+Effects: Airborne, Paralyze, Time Slow
+Triggers: Ignite
+
+Name: Dimension Breaker
+Type: MECH
+ConflictID: Dimension Breaker
+Effects: Time Slow, Airborne, Paralyze, Bleed
+Triggers: Paralyze
+
+Name: Divine Prayer
+Type: PSY
+ConflictID: Divine Prayer
+Effects: Airborne, Time Slow, Impair, Weaken, Bleed
+Triggers: Paralyze
+
+Name: Drive Kometa
+Type: PSY
+ConflictID: Yamabuki Armor
+Effects: Weaken, Stun, Time Slow, Ignite, Paralyze, Airborne, Shield Break
+Triggers: Time Slow
+
+Name: Flame Sakitama
+Type: BIO
+ConflictID: Valkyrie Bladestrike
+Effects: Time Slow, Ignite
+Triggers: Paralyze
+
+Name: Goushinnso Memento
+Type: MECH
+ConflictID: Shadow Dash
+Effects: Freeze
+Triggers: Shield Break
+
+Name: Gyakushinn Miko
+Type: BIO
+ConflictID: Crimson Impulse
+Effects: Airborne, Bleed
+Triggers: Airborne
+
+Name: Hawk of the Fog
+Type: PSY
+ConflictID: Valkyrie Accipiter
+Effects: Paralyze, Airborne, Shield Break, Time Slow
+Triggers: Ignite, Move Slow
+
+Name: Herrscher of Reason
+Type: MECH
+ConflictID: Dimension Breaker
+Effects: Freeze, Time Slow, Shield Break
+Triggers: Time Slow, Paralyze, Freeze
+
+Name: Herrscher of the Void
+Type: BIO
+ConflictID: Knight Moonbeam
+Effects: Time Slow, Airborne
+Triggers: Time Slow, Shield Break
+
+Name: Knight Moonbeam
+Type: BIO
+ConflictID: Knight Moonbeam
+Effects: Time Slow
+Triggers: Airborne
+
+Name: Lightning Empress
+Type: PSY
+ConflictID: Lightning Empress
+Effects: Paralyze, Airborne
+Triggers: Airborne
+
+Name: Luna Kindred
+Type: BIO
+ConflictID: Valkyrie Pledge
+Effects: Time Slow, Airborne, Weaken, Bleed, Shield Break
+Triggers: Ignite
+
+Name: Molotov Cherry
+Type: PSY
+ConflictID: Molotov Cherry
+Effects: Stun, Time Slow, Shield Break
+Triggers: Weaken, Shield Break
+
+Name: Night Squire
+Type: BIO
+ConflictID: 
+Effects: Airborne, Time Slow, Move Slow, Bleed
+Triggers: Airborne
+
+Name: Phantom Iron
+Type: MECH
+ConflictID: 
+Effects: Airborne, Paralyze
+Triggers: Time Slow
+
+Name: Phoenix
+Type: PSY
+ConflictID: Phoenix
+Effects: Time Slow, Ignite, Stun, Weaken, Airborne
+Triggers: Ignite
+
+Name: Ritual Imayoh
+Type: MECH
+ConflictID: White Comet
+Effects: Ignite, Stun, Time Slow, Airborne, Shield Break
+Triggers: Freeze
+
+Name: Sakuno Rondo
+Type: PSY
+ConflictID: 
+Effects: Ignite, Airborne, Bleed
+Triggers: Paralyze
+
+Name: Scarlet Fusion
+Type: MECH
+ConflictID: Scarlet Fusion
+Effects: Paralyze, Shield Break, Airborne, Bleed
+Triggers: Time Slow
+
+Name: Shadow Dash
+Type: MECH
+ConflictID: Shadow Dash
+Effects: Airborne, Paralyze
+Triggers: Stun
+
+Name: Shadow Knight
+Type: MECH
+ConflictID: Shadow Knight
+Effects: Stun, Time Slow, Paralyze, Airborne, Bleed, Shield Break
+Triggers: Freeze
+
+Name: Sixth Serenade
+Type: PSY
+ConflictID: Divine Prayer
+Effects: Airborne, Time Slow, Freeze
+Triggers: Shield Break
+
+Name: Snowy Sniper
+Type: BIO
+ConflictID: Snowy Sniper
+Effects: Freeze, Move Slow, Shield Break
+Triggers: Airborne
+
+Name: Striker Fulminata
+Type: BIO
+ConflictID: Valkyrie Bladestrike
+Effects: Airborne, Time Slow, Paralyze, Shield Break
+Triggers: Time Slow
+
+Name: Stygian Nymph
+Type: QUA
+ConflictID: 
+Effects: Time Slow, Shield Break
+Triggers: Time Slow, Weaken
+
+Name: Sundenjager
+Type: MECH
+ConflictID: Valkyrie Ranger
+Effects: Ignite, Impair, Weaken, Move Slow, Shield Break
+Triggers: Airborne, Shield Break
+
+Name: Swallowtail Phantasm
+Type: QUA
+ConflictID: 
+Effects: Airborne, Move Slow
+Triggers: Time Slow
+
+Name: Twilight Paladin
+Type: MECH
+ConflictID: Violet Executor
+Effects: Airborne, Time Slow, Bleed
+Triggers: Shield Break, Impair
+
+Name: Umbral Rose
+Type: PSY
+ConflictID: 
+Effects: Time Slow, Airborne, Shield Break
+Triggers: Impair
+
+Name: Valkyrie Accipiter
+Type: PSY
+ConflictID: Valkyrie Accipiter
+Effects: Airborne, Time Slow, Stun, Shield Break, Impair
+Triggers: Shield Break
+
+Name: Valkyrie Bladestrike
+Type: BIO
+ConflictID: Valkyrie Bladestrike
+Effects: Time Slow, Airborne
+Triggers: Time Slow
+
+Name: Valkyrie Chariot
+Type: PSY
+ConflictID: 
+Effects: Time Slow, Airborne, Ignite, Stun, Bleed
+Triggers: Stun
+
+Name: Valkyrie Gloria
+Type: QUA
+ConflictID: 
+Effects: Ignite, Airborne, Time Slow, Shield Break
+Triggers: Time Slow
+
+Name: Valkyrie Pledge
+Type: PSY
+ConflictID: Valkyrie Pledge
+Effects: Paralyze, Time Slow, Impair
+Triggers: Freeze
+
+Name: Valkyrie Ranger
+Type: MECH
+ConflictID: Valkyrie Ranger
+Effects: Stun, Impair, Bleed, Shield Break
+Triggers: Freeze
+
+Name: Valkyrie Triumph
+Type: BIO
+ConflictID: 
+Effects: Time Slow, Shield Break, Stun
+Triggers: Freeze
+
+Name: Vermillion Knight: Eclipse
+Type: MECH
+ConflictID: Scarlet Fusion
+Effects: Ignite
+Triggers: Time Slow
+
+Name: Violet Executer
+Type: MECH
+ConflictID: Violet Executor
+Effects: Airborne, Stun, Bleed, Shield Break
+Triggers: Time Slow
+
+Name: Void Drifter
+Type: MECH
+ConflictID: Valkyrie Ranger
+Effects: Time Slow, Stun, Airborne, Bleed, Shield Break
+Triggers: Impair, Weaken
+
+Name: White Comet
+Type: MECH
+ConflictID: White Comet
+Effects: Shield Break, Stun, Time Slow, Airborne
+Triggers: Airborne
+
+Name: Wolf's Dawn
+Type: PSY
+ConflictID: Yamabuki Armor
+Effects: Stun, Time Slow, Airborne, Weaken
+Triggers: Time Slow
+
+Name: Yamabuki Armor
+Type: PSY
+ConflictID: Yamabuki Armor
+Effects: Stun, Time Slow, Ignite, Airborne, Impair
+Triggers: Time Slow
+
+Name: Bright Knight: Excelsis
+Type: MECH
+ConflictID: 
+Effects: Time Slow, Shield Break, Airborne
+Triggers: Time Slow
+
+Name: Starlit Astrologos
+Type: BIO
+ConflictID: 
+Effects: Stun, Time Slow
+Triggers: Passive
+
+Name: Herrscher of Thunder
+Type: PSY
+ConflictID: Lightning Empress
+Effects: Time Slow, Paralyze, Airborne
+Triggers: Time Slow, Airborne
+
+Name: Danzai Spectramancer
+Type: MECH
+ConflictID: Shadow Dash
+Effects: Airborne, Shield Break
+Triggers: Time Slow, Impair
+
+Name: Fallen Rosemary
+Type: QUA
+ConflictID: 
+Effects: Time Slow, Weaken, Airborne, Paralyze
+Triggers: Airborne, Ignite
+
+Name: Fervent Tempo Delta
+Type: PSY
+ConflictID: Molotov Cherry
+Effects: Time Slow, Stun
+Triggers: Weaken, Hit
+
+Name: Dea Anchora
+Type: BIO
+ConflictID: Dea Anchora
+Effects: Ignite, Time Slow, Airborne
+Triggers: Airborne, Ignite
+
+Name: Blazing Hope
+Type: BIO
+ConflictID: 
+Effects: Time Slow, Airborne
+Triggers: Airborne
+
+Name: Haxxor Bunny
+Type: PSY
+ConflictID: 
+Effects: Time Slow, Move Slow
+Triggers: Passive
+
+Name: Starchasm Nyx
+Type: QUA
+ConflictID: 
+Effects: Freeze, Time Slow, Airborne
+Triggers: Time Slow, Airborne
+
+Name: Prinzessin der Verurteilung
+Type: BIO
+ConflictID: 
+Effects: Time Slow, Airborne, Paralyze
+Triggers: Time Slow, Weapon
+
+Name: Herrscher of Flamescion
+Type: PSY
+ConflictID: 
+Effects: Time Slow, Airborne, Ignite
+Triggers: Ignite, Airborne, Passive, Weapon
+
+Name: Miss Pink Elf
+Type: PSY
+ConflictID: 
+Effects: Time Slow
+Triggers: Time Slow
+
+Name: Infinite Ouroboros
+Type: MECH
+ConflictID: 
+Effects: Time Slow, Airborne, Paralyze
+Triggers: Time Slow, Passive
+
+Name: Midnight Absinthe
+Type: IMG
+ConflictID: 
+Effects: Time Slow, Airborne, Ignite
+Triggers: Time Slow
+
+Name: Sweet 'n' Spicy
+Type: MECH
+ConflictID: 
+Effects: Stun, Time Slow, Shield Break, Airborne
+Triggers: Impair
+
+Name: Silverwing: N-EX
+Type: BIO
+ConflictID: 
+Effects: Time Slow
+Triggers: Freeze, Time Slow, QTE
+
+Name: Palatinus Equinox
+Type: IMG
+ConflictID: Dea Anchora
+Effects: Time Slow, Airborne
+Triggers: Time Slow, Airborne
+
+Name: Spina Astera
+Type: MECH
+ConflictID: 
+Effects: Ignite, Time Slow, Airborne
+Triggers: Ignite, Airborne
+
+Name: Reverist Calico
+Type: IMG
+ConflictID: 
+Effects: Time Slow, Airborne, Freeze
+Triggers: Time Slow, Freeze
+
+Name: Herrscher of Human: Ego
+Type: PSY
+ConflictID: 
+Effects: Time Slow, Freeze
+Triggers: Time Slow, Freeze
+
+Name: Helical Contraption
+Type: QUA
+ConflictID: 
+Effects: Time Slow
+Triggers: Ignite, Time Slow
+
+Name: Starry Impression
+Type: PSY
+ConflictID: 
+Effects: Airborne, Time Slow, Bleed
+Triggers: Time Slow, Bleed, Passive
+
+Name: Golden Diva
+Type: IMG
+ConflictID: 
+Effects: Time Slow, Paralyze
+Triggers: Time Slow, Weapon
+
+Name: Disciplinary Perdition
+Type: BIO
+ConflictID: 
+Effects: Time Slow
+Triggers: Time Slow, Paralyze
+
+Name: Herrscher of Sentience
+Type: BIO
+ConflictID: Shadow Knight
+Effects: Impair, Time Slow, Airborne
+Triggers: Time Slow

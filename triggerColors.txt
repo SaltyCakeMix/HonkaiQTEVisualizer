@@ -1,0 +1,44 @@
+Time Slow
+103, 61, 179
+
+Stun
+255, 255, 255
+
+Paralyze
+255, 255, 80
+
+Shield Break
+42, 68, 255
+
+Airborne
+59, 156, 50
+
+Freeze
+42, 226, 254
+
+Ignite
+255, 104, 104
+
+Impair
+255, 200, 100
+
+Hit
+75, 75, 75
+
+Weaken
+173, 209, 255
+
+Move Slow
+240, 240, 240
+
+QTE
+255, 36, 237
+
+Passive
+154, 255, 75
+
+Bleed
+255, 0, 0
+
+Weapon
+128, 81, 130
