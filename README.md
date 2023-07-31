@@ -1,4 +1,4 @@
-# Honkai-QTE-Visualizer
+# HonkaiQTEVisualizer
 
 How to get this to work:
 1. Just run the exe
